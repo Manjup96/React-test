@@ -4,6 +4,7 @@ const index = () => {
   return (
     <div>
       Home page
+      <h2>Hello</h2>
     </div>
   )
 }
